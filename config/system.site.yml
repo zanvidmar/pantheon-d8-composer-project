@@ -1,0 +1,14 @@
+uuid: 82983bfb-c244-4e72-a139-deca7c94e635
+name: pantheon-d8-composer-project
+mail: hello@zanvidmar.si
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
